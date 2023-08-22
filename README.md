@@ -1,2 +1,2 @@
 # BinarixFormatter
-Drop in replacement for BinaryFormatter
+Drop in replacement for .Net / C# BinaryFormatter
